@@ -1,4 +1,4 @@
-# Python 50 Excercise :fire:
+# Python 50 Exercise :fire:
 1) A username is accepted and the user is asked to guess a number. The user will get 10 guesses. With every guess the interpreter will tell whether the guess is higher than or lower than the expected value.
 
 ### Code: [Code1](practice1.py)
