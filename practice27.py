@@ -13,4 +13,4 @@ password_available_characters = string.ascii_letters + string.punctuation  + str
 password_generator =  "".join(choice(password_available_characters) for x in range(randint(8, 32)))
 
 #Printing the generated password
-print(password)
+print(password_generator)
