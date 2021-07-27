@@ -1,3 +1,5 @@
+#EXERCISE 3 - Run timing
+
 def run_timing():
     totalRuns = 0
     totalTime = 0
