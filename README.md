@@ -1,4 +1,7 @@
 # Python 50 Exercise :fire:
+
+**[PDF for the book](https://github.com/HackClubNUV/Python-50-Exercises/files/6885619/dokumen.pub_python-workout-50-essential-exercises-1nbsped-1617295507-9781617295508.pdf)**
+
 1) A username is accepted and the user is asked to guess a number. The user will get 10 guesses. With every guess the interpreter will tell whether the guess is higher than or lower than the expected value.
 ------------------------------------------------------
 27) A password will be generated with the following Program.
@@ -15,3 +18,4 @@
 `python 3.7` or above.
 
 -----------------------------------------------------
+
