@@ -13,5 +13,3 @@ def pig_latin(a):
 
 print(pig_latin(input("Enter any string p.s first letter should not be capital :")))
 
-#Hardik Raval
-
