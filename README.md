@@ -9,7 +9,7 @@
 | 1 | [Code](practice1.py) | [Output](Images/1.png)
 | 24 | [Code](practice24.py) | [Output Not Available]()
 | 27 | [Code](practice27.py) | [Output](Images/27.png)
-| 5 |  [Code](practice5.py) | [Output](Images/practice5.jpg)
+| 5 |  [Code](practice5.py) | [Output](Images/practice5.py.jpg)
 ------------------------------------------------------
 ## Requirements:
 
