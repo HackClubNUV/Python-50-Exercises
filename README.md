@@ -4,9 +4,9 @@
 
 1) A username is accepted and the user is asked to guess a number. The user will get 10 guesses. With every guess the interpreter will tell whether the guess is higher than or lower than the expected value.
 ------------------------------------------------------
-8) A string is to be accepted by the user and the sorted string is given as the output.
+8) A string is accepted from the user as an input and the sorted string is given as the output.
 ------------------------------------------------------
-9) A string, tuple and list is taken as input by the user and the first and last elements of string, tuple and list is given as the output.
+9) A string, tuple and list is taken as input from the user and the first and last elements of string, tuple and list are given as the output.
 ------------------------------------------------------
 27) A password will be generated with the following Program.
 ------------------------------------------------------
