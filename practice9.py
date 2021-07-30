@@ -8,16 +8,3 @@ print (fl(input("Enter a string :")))
 
 #For tuple and list
 print(fl(eval(input("Enter a tuple or list :"))))
-
-
-
-
-
-
-
-
-
-
-
-
-
